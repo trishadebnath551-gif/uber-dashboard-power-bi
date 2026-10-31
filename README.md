@@ -1,6 +1,6 @@
 # Uber Ride Analytics Dashboard — Power BI
 
-An interactive Uber ride analytics dashboard built using Microsoft Power BI.
+An end-to-end Uber Ride Analytics project using SQL and Microsoft Power BI to explore booking trends, cancellations, revenue, and ride performance.
 
 ## Project Overview
 
@@ -48,3 +48,30 @@ The project uses an Uber ride-booking dataset containing 150,000 records for ana
 The dashboard was developed as a guided/tutorial-based Power BI project and further customized and analyzed by me.
 
 > The source Excel dataset is not included in this repository.
+> SQL Analysis
+
+SQL was used to perform data analysis on the Uber ride booking dataset.
+
+Key Analysis Performed
+
+- Total ride bookings
+- Booking status analysis
+- Vehicle-wise booking analysis
+- Customer and driver cancellations
+- Revenue analysis
+- Ride distance analysis
+- Customer and driver ratings
+- Payment method analysis
+
+Tools Used
+
+- MySQL
+- MySQL Workbench
+
+SQL Files
+
+All SQL queries used in this project are available in the "SQL" folder.
+
+Project Screenshots
+
+Screenshots of executed SQL queries and their outputs are available in the "sql_Screenshots" folder.
